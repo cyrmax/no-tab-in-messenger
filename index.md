@@ -1,5 +1,7 @@
 ## No Tab in Facebook Messenger
 
+* [A súgó megtekintése magyar nyelven](index-hu.md)
+
 This TamperMonkey script removes the annoying "tab" on every line, in every conversation, in Facebook Messenger.
 
 To use this script, you need the TamperMonkey browser extension.
