@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         No tab in messenger
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Removes tab spam in facebook messenger conversations.
 // @author       Cyrmax
 // @updateURL https://cyrmax.github.io/no-tab-in-messenger
 // @downloadURL https://cyrmax.github.io/no-tab-in-messenger
-// @match        https://messenger.com/t/*
+// @match        https://messenger.com/*
 // @run-at document-start
 // @grant unsafeWindow
 // ==/UserScript==
